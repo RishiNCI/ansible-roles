@@ -1,0 +1,5 @@
+---
+# defaults file for ec2
+#
+type: t3.micro
+name: Rishi
